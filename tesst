@@ -1,0 +1,34 @@
+Enter file contents here<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>First Test Scoreboard</title>
+<meta name="header" content="">
+<style type="text/css">
+body,td,th {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #CCC;
+}
+body {
+	background-color: #003;
+}
+</style>
+</head>
+
+<body>
+<h1 align="center">High School Football Scores
+</h1>
+<hr>
+<pre align="center">&nbsp;</pre> 
+<p>St. John's       0</p>
+<p>St. Francis 0</p>
+<hr>
+<p>Anthony Wayne 0</p>
+<p>Maumee 0</p>
+<hr>
+<p>Woodward 0</p>
+<p>Scott 0</p>
+<hr>
+</body>
+</html>
+ 
